@@ -20,7 +20,7 @@
     "firebase": "^5.8.2",
     "firebase-admin": "^5.13.1",
     "firebase-functions": "^2.0.2",
-    "nodemailer": "^5.1.1",
+    "nodemailer": "^6.4.16",
     "request-promise": "^4.2.2",
     "string-similarity": "^3.0.0"
   }
